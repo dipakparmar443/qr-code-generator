@@ -7,7 +7,7 @@
 A simple **QR Code Generator** built with the [qrcode-generator](https://www.npmjs.com/package/qrcode-generator) library.  
 Generate QR codes from text or URLs, customize size and colors, and download as PNG — all client-side.
 
-👉 **Demo / Source Code:** [GitHub Repository]([https://github.com/dipakparmar443/qr-code-generator)  
+👉 **Demo / Source Code:** [GitHub Repository](https://github.com/dipakparmar443/qr-code-generator)  
 👉 **Preview:** [GitHub Repository](https://dipakparmar443.github.io/qr-code-generator)  
 ---
 
